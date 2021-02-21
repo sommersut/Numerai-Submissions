@@ -1,2 +1,2 @@
 # Numerai-Submissions
-mumer.ai competition
+numer.ai competition
